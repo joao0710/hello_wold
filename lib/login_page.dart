@@ -1,7 +1,6 @@
 // ignore_for_file: deprecated_member_use
 
 import 'package:flutter/material.dart';
-
 import 'home_page.dart';
 
 class LoginPage extends StatefulWidget {
@@ -50,10 +49,10 @@ class _LoginPageState extends State<LoginPage> {
             Card(
                 child: Padding(
               padding: const EdgeInsets.only(
-                left: 6,
-                right: 6,
-                top: 6,
-                bottom: 6,
+                left: 7,
+                right: 7,
+                top: 7,
+                bottom: 7,
               ),
               child: TextField(
                 obscureText: true,
