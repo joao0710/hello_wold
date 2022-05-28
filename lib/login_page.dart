@@ -49,10 +49,10 @@ class _LoginPageState extends State<LoginPage> {
             Card(
                 child: Padding(
               padding: const EdgeInsets.only(
-                left: 7,
-                right: 7,
-                top: 7,
-                bottom: 7,
+                left: 6,
+                right: 6,
+                top: 6,
+                bottom: 6,
               ),
               child: TextField(
                 obscureText: true,
